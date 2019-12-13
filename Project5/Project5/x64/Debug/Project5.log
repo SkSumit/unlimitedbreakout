@@ -1,7 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project5.vcxproj, Unlimited Breakout Clone V1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Source.cpp
-C:\Users\kolsu\source\repos\Project5\Project5\functiondef.h(2,1): warning C4005: 'EXIT_FAILURE': macro redefinition
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(49): message : see previous definition of 'EXIT_FAILURE'
-C:\Users\kolsu\source\repos\Project5\Project5\screens.h(17,33): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\kolsu\source\repos\Project5\Project5\screens.h(30): warning C4715: 'res': not all control paths return a value
-  Project5.vcxproj -> C:\Users\kolsu\source\repos\Project5\x64\Debug\Project 5.exe
